@@ -8,7 +8,7 @@ yarn add @danielvanc/streak-counter
 
 npm install @danielvanc/streak-counter
 
-## Usuage
+## Usage
 
 import {streakCounter} from '@danielvanc/streak-counter'
 
